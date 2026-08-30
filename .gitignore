@@ -1,0 +1,10 @@
+.DS_Store
+.idea/
+*.iml
+*.log
+memory/
+
+**/node_modules/
+**/dist/
+**/target/
+**/data/
